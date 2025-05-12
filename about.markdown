@@ -8,7 +8,12 @@ permalink: /about/
 
 Hi! I’m Veronica Litt. I’m an English professor, writer, reader, digital jack-of-all-trades, and amateur letterpress printer from Hamilton, Ontario. I’ve worked as a website writer and Digital Scholarship Coordinator and currently am an Assistant Professor of English at Cape Breton University. 
 
-<img src="../assets/img/Pretty-1.png" alt="cat in a little hat" height="300" align="right">
+<figure>
+  <img src="../assets/img/Pretty-1.png" alt="cat in a little hat" height="400" align="right"/>
+  <figcaption>["The Real Polka."] (https://collections.library.yale.edu/catalog/10971880) Courtesy of the Lewis Walpole Library Digital Assets Collection. </figcaption>
+</figure>
+
+<img src="../assets/img/Pretty-1.png" alt="cat in a little hat" height="400" align="right">
 
 I teach first-year English and develop courses on sex and gender in literature and 18th-century literature, among other things (myths and modern adaptations! the weird idea of home in Canada! digital riffs on the Frankenstein story!).
 
