@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Writing Portfolio
+title: Writing
 permalink: /writing-portfolio/
 ---
 
 # Writing
+
+Highlight Clueless book
+Articles in Jeez, Rambling
+Some editorials? 
 
 ### Subheading
 
