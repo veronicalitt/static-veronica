@@ -7,7 +7,7 @@ permalink: /about/
 ## About Me
 
 <figure>
-<img src="../assets/img/un_chat.jpeg" alt="Un Chat" height="250"/>
+<img src="../assets/img/LittPic.png" alt="Picture of Veronica" height="500" align="right"/>
 <figcaption>Image Caption</figcaption>
 </figure>
 
