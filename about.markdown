@@ -6,6 +6,7 @@ permalink: /about/
 
 ## About Me
 
+<center><img src="./assets/img/cat_wedding.jpeg" alt="Sample Image" height="250" style="padding:20px;"/></center>
 
 <center><img src="./assets/img/LittPic.png" alt="Sample Image"/></center>
 
