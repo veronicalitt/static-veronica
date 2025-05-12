@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Portfolio
+title: Digital Scholarship
 permalink: /digital-portfolio/
 ---
 
