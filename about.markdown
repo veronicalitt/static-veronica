@@ -6,9 +6,11 @@ permalink: /about/
 
 ## About Me
 
+Hi! I’m Veronica Litt. I’m an English professor, writer, reader, digital jack-of-all-trades, and amateur letterpress printer from Hamilton, Ontario. I’ve worked as a website writer and Digital Scholarship Coordinator and currently am an Assistant Professor of English at Cape Breton University. 
+
 <img src="../assets/img/Pretty-1.png" alt="cat in a little hat" height="300" align="right">
 
-Hi! I’m Veronica Litt. I’m an English professor, writer, reader, digital jack-of-all-trades, and amateur letterpress printer from Hamilton, Ontario. I’ve worked as a website writer and Digital Scholarship Coordinator and currently am an Assistant Professor of English at Cape Breton University. I teach first-year English and develop courses on sex and gender in literature and 18th-century literature, among other things (myths and modern adaptations! the weird idea of home in Canada! digital riffs on the Frankenstein story!).
+I teach first-year English and develop courses on sex and gender in literature and 18th-century literature, among other things (myths and modern adaptations! the weird idea of home in Canada! digital riffs on the Frankenstein story!).
 
 My research focuses on mass reading experiences of the mid-eighteenth century. I’m currently using institutional funding to develop a database of eighteenth-century readers and drafting a book proposal on how popular novels intersected with abolition and proto-feminism. I’ve been published in peer-reviewed journals like Book History,Persuasions Online, and Women’s Writing, among others.
 
