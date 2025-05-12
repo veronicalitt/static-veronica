@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academic Portfolio
-permalink: /portfolio/
+permalink: /academic-portfolio/
 ---
 
 # Academic Work
