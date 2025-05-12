@@ -7,7 +7,7 @@ permalink: /about/
 ## About Me
 
 <figure>
-<img src="../assets/img/un_chat.jpeg" alt="Sample Image" height="250"/>
+<img src="../assets/img/un_chat.jpeg" alt="Un Chat" height="250"/>
 <figcaption>Image Caption</figcaption>
 </figure>
 
