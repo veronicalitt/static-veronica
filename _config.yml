@@ -35,6 +35,8 @@ header_pages:
   - index.markdown
   - about.markdown
   - portfolio.md
+  - academic-portfolio.md
+  - writing-portfolio.md
   - blog.md
 
   
