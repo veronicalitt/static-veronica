@@ -22,10 +22,9 @@ title: My Website
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Brought to you by the Lewis & Ruth Sherman Centre for Digital Scholarship and the McMaster University Library.
-baseurl: "/website-template" # the subpath of your site, e.g. /blog
-url: "https://cmiya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  Jekyll
+baseurl: "/static-veronica" # the subpath of your site, e.g. /blog
+url: "https://veronicalitt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  veronicalitt
 
 # Build settings
 theme: minima
