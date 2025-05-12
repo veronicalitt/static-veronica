@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Digital Portfolio
+permalink: /digital-portfolio/
 ---
 
-# Portfolio Title
+# Digital Scholarship
 
 ### Subheading
 
