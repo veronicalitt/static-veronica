@@ -14,7 +14,11 @@ My research focuses on mass reading experiences of the mid-eighteenth century. I
 
 As a public-facing writer, I’ve authored several articles and a short book on the iconic teen film _Clueless_ (ECW, 2025). I’m in the early stages of my next project: a short book on villains.
 
+<img src="../assets/img/Pretty-1.png" alt="cat in a little hat" height="400" align="left">
+
 As a digital scholar, I focus on academic-adjacent podcasting, digital editions, and hypertext games, though I dabble in computational text analysis and minimal computing. My interests in this field are expansive so I recommend viewing my various projects in my Digital Scholarship Portfolio to get a sense of my enthusiastic novice approach to DS work.
 
-Oh, and I received my PhD from the University of Toronto’s English and Book History programs in 2022. That’s where I fell in love with letterpress printing and eighteenth-century novels.
+Oh, and I received my PhD from the University of Toronto’s English and Book History programs in 2022. That’s where I fell in love with letterpress printing and eighteenth-century novels. Speaking of, I hope you enjoy another picture of a great, awful eighteenth-century cat.
+
+
 
