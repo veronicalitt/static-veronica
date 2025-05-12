@@ -8,7 +8,6 @@ permalink: /about/
 
 <figure>
 <img src="../assets/img/LittPic.png" alt="Picture of Veronica" height="500" align="right"/>
-<figcaption>Image Caption</figcaption>
 </figure>
 
 Hi! I’m Veronica Litt. I’m an English professor, writer, reader, digital jack-of-all-trades, and amateur letterpress printer from Hamilton, Ontario. I’ve worked as a website writer and Digital Scholarship Coordinator and currently am an Assistant Professor of English at Cape Breton University. I teach first-year English and develop courses on sex and gender in literature and 18th-century literature, among other things (myths and modern adaptations! the weird idea of home in Canada! digital riffs on the Frankenstein story!).
