@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Website
-email: 
+title: Veronica Litt, PhD
+email: veronica_litt@cbu.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Brought to you by the Lewis & Ruth Sherman Centre for Digital Scholarship and the McMaster University Library.
+  An experiment in minimal website design. Created with assistance from the Sherman Centre at McMaster University. 
 baseurl: "/static-veronica" # the subpath of your site, e.g. /blog
 url: "https://veronicalitt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  veronicalitt
