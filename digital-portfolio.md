@@ -7,6 +7,8 @@ permalink: /digital-portfolio/
 # Digital Scholarship
 
 Stuff to put here: Yesterday's News, Twine tutorials, Podcasting guide, Hags exhibit, Cosmopolitanisms exhibit. 
+Add HUM2DH3 stuff!
+
 Note my work on the RDM Community Data toolkits, the podcasting angle of the SSHRC app. 
 DHSI East - AI; OCAP module; DH@Guelph - TEI 
 
