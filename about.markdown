@@ -6,6 +6,11 @@ permalink: /about/
 
 ## About Me
 
+<figure>
+<img src="../assets/img/un_chat.jpeg" alt="Sample Image" height="250"/>
+<figcaption>Image Caption</figcaption>
+</figure>
+
 <center><img src="./assets/img/cat_wedding.jpeg" alt="Sample Image" height="250" style="padding:20px;"/></center>
 
 <center><img src="./assets/img/LittPic.png" alt="Sample Image"/></center>
