@@ -1,10 +1,16 @@
 ---
 layout: page
-title: Academic Portfolio
+title: Academic Work
 permalink: /academic-portfolio/
 ---
 
 # Academic Work
+
+Book History article
+Persuasions article
+Women's Writing article
+Atwood article
+Dissertation 
 
 ### Subheading
 
