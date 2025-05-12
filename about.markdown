@@ -7,6 +7,22 @@ permalink: /about/
 ## About Me
 
 
+<center><img src="./assets/img/LittPic.png" alt="Sample Image"/></center>
+
+<img src="assets/img/LittPic.png"/>
+
+<img src="assets/img/LittPic.png"/>
+
+<img src="/assets/img/LittPic.png"/>
+
+<center><img src="./assets/img/LittPic.jpg" alt="Sample Image"/></center>
+
+<img src="assets/img/LittPic.jpg"/>
+
+<img src="assets/img/LittPic.jpg"/>
+
+<img src="/assets/img/LittPic.jpg"/>
+
 <img align="right" width="300" src="/assets/img/LittPic.jpg"/>
 
 
