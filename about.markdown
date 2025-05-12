@@ -6,7 +6,11 @@ permalink: /about/
 
 ## About Me
 
-Hi! I’m Veronica Litt. I’m an English professor, writer, reader, digital jack-of-all-trades, and amateur letterpress printer from Hamilton, Ontario. I’ve worked as a website writer and Digital Scholarship Coordinator and currently am an Assistant Professor of English at Cape Breton University. 
+Hi! I’m Veronica Litt. I’m an English professor, writer, reader, digital jack-of-all-trades, and amateur letterpress printer from Hamilton, Ontario. I’ve worked as a website writer and Digital Scholarship Coordinator and currently am an Assistant Professor of English at Cape Breton University.
+
+<figure>
+<img src="../assets/img/PinkBonnet-1.png" alt="cat in a little bonnet height="400" align="right"/>
+</figure>
 
 <img src="../assets/img/PinkBonnet-1.png" alt="cat in a little bonnet height="400" align="right">
 
