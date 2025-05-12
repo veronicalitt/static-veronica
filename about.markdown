@@ -7,8 +7,8 @@ permalink: /about/
 ## About Me
 
 <figure>
-<img src="../assets/img/LittPic.png" alt="Picture of Veronica" height="350"/>
-/figure>
+<img src="../assets/img/LittPic.png" alt="Picture of Veronica" height="400" align="right"/>
+</figure>
   
 Hi! I’m Veronica Litt. I’m an English professor, writer, reader, digital jack-of-all-trades, and amateur letterpress printer from Hamilton, Ontario. I’ve worked as a website writer and Digital Scholarship Coordinator and currently am an Assistant Professor of English at Cape Breton University.
 
@@ -17,8 +17,8 @@ I teach first-year English and develop courses on 18th-century novels and gender
 My research focuses on mass reading experiences of the mid-eighteenth century. I explored this field in my doctoral work at the University of Toronto's English and Book History programs. I'm currently using institutional funding to develop a database of eighteenth-century readers and drafting a book proposal on how popular novels intersected with abolition and proto-feminism. I’ve been published in peer-reviewed journals like _Book History_,_Persuasions Online_, and _Women’s Writing_, among others.
 
 <figure>
-<img src="../assets/img/Wine1.png" alt="Engraving of a cat opening a bottle of wine" height="200"/>
-/figure>
+<img src="../assets/img/Wine1.png" alt="Engraving of a cat opening a bottle of wine" height="300" align="left"/>
+</figure>
   
 As a public-facing writer, I’ve authored several articles and a short book on the iconic teen film _Clueless_ (ECW, 2025). I’m in the early stages of my next project: a short book on villains.
 
