@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Academic Work
+title: Academic Research 
 permalink: /academic-portfolio/
 ---
 
-# Academic Work
+# Academic Research 
 
 Book History article
 Persuasions article
