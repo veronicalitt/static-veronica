@@ -14,9 +14,7 @@ I regularly lead workshops on podcasting at post-secondary institutions in Canad
 ### Yesterday's News
 At my first job outside of the academy, I ran and co-hosted a successful history podcast called Yesterday's News. With no marketing budget, we amassed 2000+ listeners per episode in under a month. [Listen to the podcast.](https://podcasts.apple.com/us/podcast/yesterdays-news/id1563444201) 
 
-<figure>
-<img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet" height="200"/>
-</figure>
+<center><img src="./assets/img/Trumpet-1.png" alt="Sample Image"/></center>
 
 ## Websites and Digital Exhibits
 
@@ -43,3 +41,6 @@ I've learned about the Text Encoding Inititative, artificial intelligence, and I
 <img src="../assets/img/Roof-1.png" alt="cats on a roof" height="250"/>
 </figure>
 
+<figure>
+<img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet" height="200"/>
+</figure>
