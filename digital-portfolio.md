@@ -10,11 +10,10 @@ permalink: /digital-portfolio/
 
 <figure>
 <img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet" height="200"/>
-<figcaption>Image Caption</figcaption>
 </figure>
 
 ### Podcasting Workshops and Asynchronous Module
-I regularly lead workshops on podcasting at post-secondary institutions in Canada. Over several sessions, I co-developed an asynchronous learning module on the subject. [This guide](https://learn.scds.ca/podcasting/)) walks new podcasters through a six-step process for developing, scripting, recording, editing, and sharing their work. While teaching McMaster's introductory Digital Humanities class in 2023, this module also supported the class as we co-developed The Cyber Cinema Podcast. 
+I regularly lead workshops on podcasting at post-secondary institutions in Canada. Over several sessions, I co-developed an asynchronous learning module on the subject. [This guide](https://learn.scds.ca/podcasting/) walks new podcasters through a six-step process for developing, scripting, recording, editing, and sharing their work. While teaching McMaster's introductory Digital Humanities class in 2023, this module also supported the class as we co-developed The Cyber Cinema Podcast. 
 
 ### Yesterday's News
 At my first job outside of the academy, I ran and co-hosted a successful history podcast called Yesterday's News. With no marketing budget, we amassed 2000+ listeners per episode in under a month. [Listen to the podcast.](https://podcasts.apple.com/us/podcast/yesterdays-news/id1563444201) 
@@ -23,7 +22,6 @@ At my first job outside of the academy, I ran and co-hosted a successful history
 
 <figure>
 <img src="../assets/img/Prim-1.png" alt="cat looking beautiful" height="250"/>
-<figcaption>Image Caption</figcaption>
 </figure>
 
 ### DS Tutorials
@@ -36,7 +34,6 @@ Some of my first experiments with DH and DS involved using websites as a no-barr
 
 <figure>
 <img src="../assets/img/Roof-1.png" alt="cats on a roof" height="250"/>
-<figcaption>Image Caption</figcaption>
 </figure>
 
 ### Teaching 
