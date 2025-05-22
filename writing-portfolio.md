@@ -39,9 +39,11 @@ _
 
 ### Articles and Essays
 
-Sometimes I write short essays about all kinds of things. Here are links to a few on [eighteenth-century music videos](https://the-rambling.com/2021/09/17/issue12-litt/) (featuring apperances by Lil Nas X! Madonna! Annie Lennox! Biz Markie!), [letterpress printing](https://geezmagazine.org/magazine/article/letterpress-for-what-ails-you), [muumuus](https://www.factinate.com/editorial/muumuus-editorial?headerimage=1), [villains](https://www.factinate.com/editorial/in-defense-of-villains?headerimage=1), [_Tristram Shandy_](https://www.historyexpose.com/things/tristram-shandy) and [real-time stories](https://www.factinate.com/editorial/real-time-movies?headerimage=1). 
+Sometimes I write short essays about all kinds of things. Here are links to a few on [music videos set in the eighteenth century](https://the-rambling.com/2021/09/17/issue12-litt/), [letterpress printing](https://geezmagazine.org/magazine/article/letterpress-for-what-ails-you), [muumuus](https://www.factinate.com/editorial/muumuus-editorial?headerimage=1), [villains](https://www.factinate.com/editorial/in-defense-of-villains?headerimage=1), [_Tristram Shandy_](https://www.historyexpose.com/things/tristram-shandy), and [real-time stories](https://www.factinate.com/editorial/real-time-movies?headerimage=1). 
 
-<center><img src="../assets/img/"Held_1.png" alt="grumpy woman holding a cat"/></center>
+<center><img src="../assets/img/Held_1.png" alt="grumpy woman holding cat"/></center>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Image Credit: ["Old Maids at a Cat's Funeral."](https://collections.library.yale.edu/catalog/10731109) Courtesy of the Lewis Walpole Library Digital Assets Collection.
 
