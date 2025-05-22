@@ -20,6 +20,6 @@ As a public-facing writer, I’ve authored several articles and a short book on 
 
 In my digital work, I focus on academic-adjacent podcasting, digital editions, and hypertext games, though I dabble in computational text analysis and minimal computing. I am an enthusiastic novice and always interested in learning about new tools and approaches!
 
-Image Credit: ["The New Kit Cat Club"](https://collections.library.yale.edu/catalog/10972034). Courtesy of the Lewis Walpole Library Digital Assets Collection. 
+Image Credit: ["The New Kit Cat Club."](https://collections.library.yale.edu/catalog/10972034) Courtesy of the Lewis Walpole Library Digital Assets Collection. 
 
 
