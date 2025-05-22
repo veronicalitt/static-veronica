@@ -15,4 +15,4 @@ Please enjoy my branding, i.e./ images of terrible cats from the eighteenth cent
 
 <center><img src="./assets/img/Offended-1.png" alt="Sample Image"/></center>
 
-Image Credit: ["I am offended Tom"]((https://collections.library.yale.edu/catalog/10970514)). Courtesy of the Lewis Walpole Library Digital Assets Collection.
+Image Credit: ["I am offended Tom."](https://collections.library.yale.edu/catalog/10970514) Courtesy of the Lewis Walpole Library Digital Assets Collection.
