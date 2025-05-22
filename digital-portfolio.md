@@ -45,10 +45,8 @@ I regularly lead workshops on podcasting at post-secondary institutions in Canad
 At my first job outside of the academy, I ran and co-hosted a successful history podcast called Yesterday's News. With no marketing budget, we amassed 2000+ listeners per episode in under a month. [Listen to the podcast.](https://podcasts.apple.com/us/podcast/yesterdays-news/id1563444201) 
 
 <center><img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet"/></center>
-<center>Here's a symbolic representation of me recording a podcast.</center>
+<center>Here's a symbolic representation of me recording audio.</center>
 
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Image Credit: [“Concert of Cats.”](https://collections.library.yale.edu/catalog/17324467) Courtesy of the Lewis Walpole Library Digital Assets Collection.
 
