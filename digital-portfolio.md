@@ -49,5 +49,6 @@ At my first job outside of the academy, I ran and co-hosted a successful history
 
 
 
+
 Image Credit: [“Concert of Cats.”](https://collections.library.yale.edu/catalog/17324467) Courtesy of the Lewis Walpole Library Digital Assets Collection.
 
