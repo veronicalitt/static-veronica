@@ -20,8 +20,7 @@ Some of my first experiments with DH and DS involved using websites as a no-barr
 
 **Teaching** 
 
-In 2023, I designed a new iteration of McMaster University's introductory Digital Scholarship course. My class introduced 33 students to the multi-faceted and energetic field of Digital Scholarship through two key questions. First, how does technology change the way we see classic works of literature? Second,
-how does scholarly analysis change the way we see technology? We considered both queries through close analysis of Frankenstein (1818) by Mary Shelley. Students learned to use the text analysis platform Voyant, Google Maps' digital mapping tool, podcasting, and Twine games. 
+In 2023, I designed a new iteration of McMaster University's introductory Digital Scholarship course. The class introduced students to DS through two key questions. First, how does technology change the way we see classic works of literature? Second, how does scholarly analysis change the way we see technology? We considered both queries through close analysis of _Frankenstein_ (1818) by Mary Shelley. Students learned to use the text analysis platform Voyant and Google Maps' digital mapping tool; their two major projects involved creating a hypertext game and a podcast episode. 
 
 **Training**
 
@@ -31,15 +30,16 @@ I've learned about the Text Encoding Inititative, artificial intelligence, and I
 
 **Podcasting Workshops and Asynchronous Module**
 
-I regularly lead workshops on podcasting at post-secondary institutions in Canada. Over several sessions, I co-developed an asynchronous learning module on the subject. [This guide](https://learn.scds.ca/podcasting/) walks new podcasters through a six-step process for developing, scripting, recording, editing, and sharing their work. While teaching McMaster's introductory Digital Humanities class in 2023, this module also supported the class as we co-developed The Cyber Cinema Podcast. 
-
+I regularly lead workshops on podcasting at post-secondary institutions in Canada. Over several sessions, I co-developed an asynchronous learning module on the subject. [This guide](https://learn.scds.ca/podcasting/) walks new podcasters through a six-step process for developing, scripting, recording, editing, and sharing their work. While teaching McMaster's introductory Digital Humanities class in 2023, this module also supported the class as we co-developed a podcast on cyber cinema. 
 
 **Yesterday's News**
 
 At my first job outside of the academy, I ran and co-hosted a successful history podcast called Yesterday's News. With no marketing budget, we amassed 2000+ listeners per episode in under a month. [Listen to the podcast.](https://podcasts.apple.com/us/podcast/yesterdays-news/id1563444201) 
 
-<center><img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet" height="200"/></center>
-<center>Here's a symbolic representation of me recording a podcast.</center>
+<center><img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet"/></center>
+<center>Here's a symbolic representation of me recording a podcast.</center>\
+
+
 
 Image Credit: [“Concert of Cats.”](https://collections.library.yale.edu/catalog/17324467) Courtesy of the Lewis Walpole Library Digital Assets Collection.
 
