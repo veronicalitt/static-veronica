@@ -12,13 +12,12 @@ permalink: /digital-portfolio/
 
 I regularly lead workshops on podcasting at post-secondary institutions in Canada. Over several sessions, I co-developed an asynchronous learning module on the subject. [This guide](https://learn.scds.ca/podcasting/) walks new podcasters through a six-step process for developing, scripting, recording, editing, and sharing their work. While teaching McMaster's introductory Digital Humanities class in 2023, this module also supported the class as we co-developed The Cyber Cinema Podcast. 
 
-<figure>
-<img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet" width="200" img align="center"/>
-</figure>
 
 **Yesterday's News**
 
 At my first job outside of the academy, I ran and co-hosted a successful history podcast called Yesterday's News. With no marketing budget, we amassed 2000+ listeners per episode in under a month. [Listen to the podcast.](https://podcasts.apple.com/us/podcast/yesterdays-news/id1563444201) 
+
+<center><img src="./assets/img/Trumpet-1.png" alt="Cat playing trumpet"/></center>
 
 ## Websites and Digital Exhibits
 
