@@ -9,7 +9,7 @@ title: Home
 
 Welcome to my little website, which uses the principles and practices of minimal computing to share my work as an English professor, digital scholar, letterpress printer, and public-facing writer.
 
-Learn more about me on the About page and explore different aspects of my work in my Portfolio.
+Learn more about me on the [About](https://veronicalitt.github.io/static-veronica/about/) page and explore different aspects of my work in [digital scholarship](https://veronicalitt.github.io/static-veronica/digital-portfolio/), [academic research](https://veronicalitt.github.io/static-veronica/academic-portfolio/), and [public-facing writing](https://veronicalitt.github.io/static-veronica/writing-portfolio/).
 
 Please enjoy my branding, i.e./ images of terrible cats from the eighteenth century.
 
