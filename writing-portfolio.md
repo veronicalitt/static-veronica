@@ -13,7 +13,7 @@ permalink: /writing-portfolio/
 <figcaption>My first book!</figcaption>
 </figure>
 
-My first book is a work of cultural criticism on the classic teen film _Clueless_ (1995). 
+My first book is a work of cultural criticism on the classic teen film _Clueless_ (1995). Order a copy at your local independent book store or [direct from the publisher, ECW](https://ecwpress.com/products/ugh-as-if).
 
 From the publisher:
 
