@@ -6,19 +6,6 @@ permalink: /digital-portfolio/
 
 # Digital Scholarship
 
-## Podcasting
-
-**Podcasting Workshops and Asynchronous Module**
-
-I regularly lead workshops on podcasting at post-secondary institutions in Canada. Over several sessions, I co-developed an asynchronous learning module on the subject. [This guide](https://learn.scds.ca/podcasting/) walks new podcasters through a six-step process for developing, scripting, recording, editing, and sharing their work. While teaching McMaster's introductory Digital Humanities class in 2023, this module also supported the class as we co-developed The Cyber Cinema Podcast. 
-
-
-**Yesterday's News**
-
-At my first job outside of the academy, I ran and co-hosted a successful history podcast called Yesterday's News. With no marketing budget, we amassed 2000+ listeners per episode in under a month. [Listen to the podcast.](https://podcasts.apple.com/us/podcast/yesterdays-news/id1563444201) 
-
-<center><img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet"/></center>
-
 ## Websites and Digital Exhibits
 
 **DS Tutorials**
@@ -40,6 +27,19 @@ how does scholarly analysis change the way we see technology? We considered both
 
 I've learned about the Text Encoding Inititative, artificial intelligence, and Indigenous data sovereignty through workshops and modules like DHS@Guelph, DHSI East, and OCAP. I also provide DS training opportunities to other scholars, specifically working on McMaster's SSHRC-funded RDM Community Data Toolkits event and Cape Breton University's SSHRC-funded work on culture bearers, where I provide podcast support. 
 
-<figure>
-<img src="../assets/img/Roof-1.png" alt="cats on a roof" height="250" align="centre"/>
-</figure>
+## Podcasting
+
+**Podcasting Workshops and Asynchronous Module**
+
+I regularly lead workshops on podcasting at post-secondary institutions in Canada. Over several sessions, I co-developed an asynchronous learning module on the subject. [This guide](https://learn.scds.ca/podcasting/) walks new podcasters through a six-step process for developing, scripting, recording, editing, and sharing their work. While teaching McMaster's introductory Digital Humanities class in 2023, this module also supported the class as we co-developed The Cyber Cinema Podcast. 
+
+
+**Yesterday's News**
+
+At my first job outside of the academy, I ran and co-hosted a successful history podcast called Yesterday's News. With no marketing budget, we amassed 2000+ listeners per episode in under a month. [Listen to the podcast.](https://podcasts.apple.com/us/podcast/yesterdays-news/id1563444201) 
+
+<center><img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet" height="200"/></center>
+<center>Here's a symbolic representation of me recording a podcast.</center>
+
+Image Credit: [“Concert of Cats.”](https://collections.library.yale.edu/catalog/17324467) Courtesy of the Lewis Walpole Library Digital Assets Collection.
+
