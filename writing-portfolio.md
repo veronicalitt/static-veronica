@@ -13,7 +13,11 @@ permalink: /writing-portfolio/
 <figcaption>My first book!</figcaption>
 </figure>
 
-A sweet and sly exploration of the Jane Austen–inspired teen movie and its evergreen imperative to be kind, do better, and find the activist within.
+My first book is a work of cultural criticism on the classic teen film _Clueless_ (1995). 
+
+From the publisher:
+
+_A sweet and sly exploration of the Jane Austen–inspired teen movie and its evergreen imperative to be kind, do better, and find the activist within._
 
 We are totally butt-crazy in love with _Clueless_. Since the movie’s premiere in 1995, pop culture has mined Amy Heckerling’s high school comedy for inspiration, from Iggy Azalea and Charli XCX’s “Fancy” music video to Cher’s iconic yellow plaid suit appearing at every Halloween party.
 
