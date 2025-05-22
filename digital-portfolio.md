@@ -12,6 +12,10 @@ permalink: /digital-portfolio/
 
 Some of my first experiments with DH and DS involved using websites as a no-barrier tool to bring my work to the public. My first project was a digital exhibit of my Book History practicum project on [popular books about women at mid-century](https://feminocentricnarratives.wordpress.com/). The second was an [interview-based blog](https://cosmopolitanisms.wordpress.com/) for the 2017 Canadian Society of Eighteenth-Century Studies conference. This site paired each interview with a relevant holding at the Thomas Fisher Rare Book Library. 
 
+**Letterpress Blog**
+
+During my PhD, I was very lucky to work as a Printing Apprentice at the Roberston Davies Library's letterpress facility. This role taught me principles and best practices of letterpress printing with 19th and 20th century presses. I was hooked! After my official apprenticeship concluded, I continued to volunteer at the facility and have a small at-home setup. Learn more about my letterpress work with my blog ["Veronica Learns Letterpress."](https://letterpressbyveronica.wordpress.com/)
+
 **DS Tutorials**
 
 When I worked as the Sherman Centre's Digital Scholarship Coordinator, I moved away from proprietary website builders like Wordpress and embraced open source coding and minimal computing. Part of my work involved learning to use GitHub and developing tutorial sites on software like Twine Games, a hypertext game design platform. [Browse the Twine module here.](https://learn.scds.ca/dmds22-23/Twine.html) One of my key projects was developing the "Online Learning Catalogue" which corralled all of the Centre's 100+ digital tutorials into a [searchable database](https://scds.ca/searchable-online-learning/). 
