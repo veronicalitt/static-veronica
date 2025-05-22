@@ -20,6 +20,8 @@ During my PhD, I was very lucky to work as a Printing Apprentice at the Robersto
 
 When I worked as the Sherman Centre's Digital Scholarship Coordinator, I moved away from proprietary website builders like Wordpress and embraced open source coding and minimal computing. Part of my work involved learning to use GitHub and developing tutorial sites on software like Twine Games, a hypertext game design platform. [Browse the Twine module here.](https://learn.scds.ca/dmds22-23/Twine.html) One of my key projects was developing the "Online Learning Catalogue" which corralled all of the Centre's 100+ digital tutorials into a [searchable database](https://scds.ca/searchable-online-learning/). 
 
+<center><img src="../assets/img/Roof-1.png" alt="cats playing on a roof"/></center>
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Teaching and Training
