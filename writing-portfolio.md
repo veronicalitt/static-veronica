@@ -51,11 +51,11 @@ _
 
 **Radio**
 
-_Dialogue._ The Coast Radio 89.7 FM. May 18, 2025. 
+[_Dialogue._](https://coastalradio.ca/dialogue-podcasts/) The Coast Radio 89.7 FM. May 18, 2025. 
 
 **Television**
 
-"Ugh! As If!' Author Pens Novel Inspired by _Clueless._" _CTV News Atlantic._ May 29, 2025.
+["Ugh! As If!' Author Pens Novel Inspired by _Clueless._"](https://www.youtube.com/watch?v=hocSN_HIXE8&t=5s) _CTV News Atlantic._ May 29, 2025.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
