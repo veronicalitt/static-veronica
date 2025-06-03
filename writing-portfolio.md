@@ -45,7 +45,7 @@ _
 
 ["Veronica Litt on _Clueless_, the Enduring Appeal of Paul Rudd, and the Power of Girly Media."](https://podcasts.apple.com/us/podcast/veronica-litt-on-clueless-the-enduring-allure-of/id1495655842?i=1000710758066) _On the Shelf with Honoura Quinn._ June 1, 2025.
 
-["Terminator 3: Terminator? I Barely Know'er!"](https://podcasts.apple.com/us/podcast/terminator-3-terminator-i-hardly-know-er/id1646807003?i=1000710662298) _The Juiciest Bits._ May 31, 2025. 
+["_Terminator 3_: Terminator? I Barely Know'er!"](https://podcasts.apple.com/us/podcast/terminator-3-terminator-i-hardly-know-er/id1646807003?i=1000710662298) _The Juiciest Bits._ May 31, 2025. 
 
 ["Veronica Litt on the Cultural, and Lasting, Impact of _Clueless._"](https://wpoc.iheart.com/featured/st-pierre/content/2025-05-30-1248-adult-education-veronica-litt-on-the-cultural-and-lasting-impact-of-cl/) _Adult Education with Jeff St. Pierre._ May 30, 2025. 
 
