@@ -12,6 +12,8 @@ permalink: /digital-portfolio/
 
 Some of my first experiments with DH and DS involved using websites as a no-barrier tool to bring my work to the public. My first project was a digital exhibit of my Book History practicum project on [popular books about women at mid-century](https://feminocentricnarratives.wordpress.com/). The second was an [interview-based blog](https://cosmopolitanisms.wordpress.com/) for the 2017 Canadian Society of Eighteenth-Century Studies conference. This site paired each interview with a relevant holding at the Thomas Fisher Rare Book Library. 
 
+Currently, I'm in the final stage of creating a digital edition of the first English translation of Jean-Jacques Rousseau's massively popular novel _Julie, ou La Nouvelle Heloise_ (1761). Translated by William Kenrick, the novel was retitled _Eloisa_ (1761) to appeal to Anglophone readers. When the digital edition is complete, the e-text will provide a freely accessible version of this unjustly neglected text for students, scholars, and anyone interested in eighteenth-century literature.
+
 **Letterpress Blog**
 
 During my PhD, I was very lucky to work as a Printing Apprentice at the Roberston Davies Library's letterpress facility. This role taught me principles and best practices of letterpress printing with 19th and 20th century presses. I was hooked! After my official apprenticeship concluded, I continued to volunteer at the facility and have a small at-home setup. Learn more about my letterpress work with my blog ["Veronica Learns Letterpress."](https://letterpressbyveronica.wordpress.com/)
