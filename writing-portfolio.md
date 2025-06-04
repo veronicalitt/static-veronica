@@ -39,6 +39,8 @@ _
 
 **News**
 
+["_Clueless_ is 30--as if!--but what this totally important movie did for girly art is forever."](https://www.thestar.com/entertainment/clueless-is-30-as-if-but-what-this-totally-important-movie-did-for-girly-art/article_01db046a-52df-4ec7-a6d9-21823c70ee74.html) _The Toronto Star._ June 4, 2025. 
+
 ["Iconic Movie Inspires Cape Breton Writer to take "Girly Art" Seriously in New Book."](https://www.ctvnews.ca/atlantic/nova-scotia/article/iconic-movie-inspires-cape-breton-writer-to-take-girly-art-seriously-in-new-book/) _CTV News._ May 31, 2025.
 
 **Podcasts**
