@@ -45,7 +45,7 @@ _
 
 **Podcasts**
 
-[SKYLIT: Veronica Litt, UGH! AS IF! CLUELESS."] (https://open.spotify.com/episode/6dNdiNbloRvul5JpBKMQWy?go=1&sp_cid=e4166784fc96ae59e614f79e3d676531&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=c0e4e749b0fe4081). _Skylight Books Podcast._ June 12, 2025.
+["SKYLIT: Veronica Litt, UGH! AS IF! CLUELESS."](https://open.spotify.com/episode/6dNdiNbloRvul5JpBKMQWy?go=1&sp_cid=e4166784fc96ae59e614f79e3d676531&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=c0e4e749b0fe4081). _Skylight Books Podcast._ June 12, 2025.
 
 ["Veronica Litt on _Clueless_, the Enduring Appeal of Paul Rudd, and the Power of Girly Media."](https://podcasts.apple.com/us/podcast/veronica-litt-on-clueless-the-enduring-allure-of/id1495655842?i=1000710758066) _On the Shelf with Honoura Quinn._ June 1, 2025.
 
