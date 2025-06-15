@@ -61,6 +61,10 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
 [_Dialogue._](https://coastalradio.ca/dialogue-podcasts/) The Coast Radio 89.7 FM. May 18, 2025. 
 
+**Reviews**
+
+["Ugh As If!": New book tackles the 'female gaze' and _Clueless_."](https://www.mountholyokenews.com/books/2025/2/8/veronica-litt-makes-a-case-for-clueless-1995-and-the-joy-of-girly-art) _Mount Holyoke News._ February 10, 2025. 
+
 **Television**
 
 ["Veronica Litt discusses _Ugh! As If! Clueless._"](https://www.ctvnews.ca/atlantic/video/2025/05/29/veronica-litt-discusses-ugh-as-if-clueless/) _CTV News Atlantic._ May 29, 2025.
