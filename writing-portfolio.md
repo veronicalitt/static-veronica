@@ -63,7 +63,7 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
 **Television**
 
-["Ugh! As If!' Author Pens Novel Inspired by _Clueless._"](https://www.youtube.com/watch?v=hocSN_HIXE8&t=5s) _CTV News Atlantic._ May 29, 2025.
+["Veronica Litt discusses _Ugh! As If! Clueless._"](https://www.ctvnews.ca/atlantic/video/2025/05/29/veronica-litt-discusses-ugh-as-if-clueless/) _CTV News Atlantic._ May 29, 2025.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
