@@ -39,6 +39,8 @@ _
 
 **News**
 
+["Celebrating a Book Release and New Research with Dr. Veronica Litt."](https://www.cbu.ca/newsroom/articles/celebrating-a-book-release-and-new-research-with-dr-veronica-litt/) _CBU Newsroom_. July 2, 2025. 
+
 ["_Clueless_ is 30--As If! Here's Why It's Still a Totally Important Movie."](https://thekit.ca/culture/culture-movies/clueless-is-30/). _The Kit._ June 12, 2025. 
 
 ["_Clueless_ is 30--as if!--but what this totally important movie did for girly art is forever."](https://www.thestar.com/entertainment/clueless-is-30-as-if-but-what-this-totally-important-movie-did-for-girly-art/article_01db046a-52df-4ec7-a6d9-21823c70ee74.html) _The Toronto Star._ June 4, 2025. 
