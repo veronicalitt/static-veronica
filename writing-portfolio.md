@@ -38,6 +38,7 @@ _
 #### Press for _Ugh! As If!_
 
 **News**
+["Why We're All Still Obsessed with _Clueless_"](https://www.fridaythings.com/recent-posts/clueless-30th-anniversary-veronica-litt). _Friday Things._ July 11, 2025.
 
 ["Celebrating a Book Release and New Research with Dr. Veronica Litt."](https://www.cbu.ca/newsroom/articles/celebrating-a-book-release-and-new-research-with-dr-veronica-litt/) _CBU Newsroom_. July 2, 2025. 
 
