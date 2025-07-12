@@ -80,6 +80,7 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 **Screenings and Q&As**
 
 ["_Clueless_ 30th Anniversary with Veronica Litt."](https://paradiseonbloor.com/movies/clueless-30th-anniversary-w-veronica-litt/) The Paradise Theater. Toronto, Ontario. July 24, 2025. 
+
 ["_Clueless_ 30th Anniversary with Veronica Litt and Whitney McMeekin."](https://playhousecinema.ca/movie/clueless-30th-anniversary) The Playhouse Theater. Hamilton, Ontario. July 22, 2025.
 
 **Talks**
