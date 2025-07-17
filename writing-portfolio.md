@@ -51,6 +51,8 @@ _
 
 **Podcasts**
 
+["Veronica Litt, "Ugh! As If!: Clueless (ECW Press, 2025)."](https://newbooksnetwork.com/ugh-as-if) _New Books Network._ July 16, 2025.
+
 ["Clueless."](https://podcasts.apple.com/ca/podcast/clueless-138/id1201927184?i=1000714447300) _History of the 90s._ June 25, 2025.
 
 ["SKYLIT: Veronica Litt, UGH! AS IF! CLUELESS."](https://open.spotify.com/episode/6dNdiNbloRvul5JpBKMQWy?go=1&sp_cid=e4166784fc96ae59e614f79e3d676531&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=c0e4e749b0fe4081) _Skylight Books Podcast._ June 12, 2025.
