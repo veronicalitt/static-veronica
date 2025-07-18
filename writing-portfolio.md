@@ -37,7 +37,9 @@ _
 
 #### Press for _Ugh! As If!_
 
-**News**
+**News and Excerpts**
+
+["A Ditz with a Credit Card: Ignorance and Innocence."](https://alllitup.ca/excerpted-ugh-as-if/). _All Lit Up._ July 18, 2025.
 
 ["Why We're All Still Obsessed with _Clueless_"](https://www.fridaythings.com/recent-posts/clueless-30th-anniversary-veronica-litt). _Friday Things._ July 11, 2025.
 
