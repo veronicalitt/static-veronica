@@ -67,6 +67,8 @@ _
 
 **Radio**
 
+["30 years on and you're not majorly, totally, butt-crazy in love with Clueless? As if!"](https://www.cbc.ca/listen/live-radio/1-14-day-6/clip/16158811-30-years-majorly-totally-butt-crazy-love-clueless-as) _Day 6._ CBC Radio (National). July 18, 2025.
+
 Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
 [_Dialogue._](https://coastalradio.ca/dialogue-podcasts/) The Coast Radio 89.7 FM. May 18, 2025. 
