@@ -25,27 +25,28 @@ In _Ugh! As If!_, Veronica Litt argues that this seemingly fluffy teen romp is t
 
 #### Praise for _Ugh! As If!_
 
-“_Ugh! As If!_ makes a powerful argument for why we should keep inviting Amy Heckerling's film into our lives, and it reminds us of comedy's awesome power to connect us.” — Deidre Lynch, author of _Loving Literature: A Cultural History_
+“Litt's lively, original Ugh! As If! uses the brilliant teen movie _Clueless_ as a lens to examine the broader cultural landscape with playfulness and depth.” — Emily Nussbaum, Pulitzer Prize winner, _The New Yorker_ columnist, and author of _I Like to Watch_ and _Cue the Sun!_
+
+“_Ugh! As If!_ makes a powerful argument for why we should keep inviting Amy Heckerling's film into our lives, and it reminds us of comedy's awesome power to connect us.” — Deidre Lynch, Ernest Bernbaum Professor of Literature at Harvard University and author of _The Economy of Character_ and _Loving Literature: A Cultural History_
 
 “Litt gives _Clueless_ the intellectual importance it deserves, adding it to the canon of timeless women-led pictures.” — Marlowe Granados, author of _Happy Hour
 _
+
 “Veronica Litt, using _Clueless_ as her campy, colourful vessel, encourages us to love the art that moves us, to interrogate our notions of complacency and ignorance and, most importantly, to tell us not to give up the fight, whether it be on a global scale or confined to the halls of high school chaos.” — _Mount Holyoke News_
 
-“Litt's lively, original Ugh! As If! uses the brilliant teen movie _Clueless_ as a lens to examine the broader cultural landscape with playfulness and depth.” — Emily Nussbaum, author of _Cue the Sun!_
-
-“Just like _Clueless, Ugh! As If!_ is an unabashed celebration of all things girly, bubbly, and bright. If you've been feeling jaded about the state of the world, this sweet, smart, and funny book is exactly what you need.” — Hannah McGregor, author of _Clever Girl_ and _A Sentimental Education_
+“Just like _Clueless, Ugh! As If!_ is an unabashed celebration of all things girly, bubbly, and bright. If you've been feeling jaded about the state of the world, this sweet, smart, and funny book is exactly what you need.” — Hannah McGregor, Associate Professor of Publishing at Simon Fraser University, host of _Material Girls_ and _Witch Please_, and author of _A Sentimental Education_ and _Clever Girl_
 
 #### Press for _Ugh! As If!_
 
 **News and Excerpts**
 
-["A Ditz with a Credit Card: Innocence and Ignorance."](https://alllitup.ca/excerpted-ugh-as-if/). _All Lit Up._ July 18, 2025.
+["A Ditz with a Credit Card: Innocence and Ignorance."](https://alllitup.ca/excerpted-ugh-as-if/) _All Lit Up._ July 18, 2025.
 
-["Why We're All Still Obsessed with _Clueless_"](https://www.fridaythings.com/recent-posts/clueless-30th-anniversary-veronica-litt). _Friday Things._ July 11, 2025.
+["Why We're All Still Obsessed with _Clueless._"](https://www.fridaythings.com/recent-posts/clueless-30th-anniversary-veronica-litt) _Friday Things._ July 11, 2025.
 
 ["Celebrating a Book Release and New Research with Dr. Veronica Litt."](https://www.cbu.ca/newsroom/articles/celebrating-a-book-release-and-new-research-with-dr-veronica-litt/) _CBU Newsroom_. July 2, 2025. 
 
-["_Clueless_ is 30--As If! Here's Why It's Still a Totally Important Movie."](https://thekit.ca/culture/culture-movies/clueless-is-30/). _The Kit._ June 12, 2025. 
+["_Clueless_ is 30--As If! Here's Why It's Still a Totally Important Movie."](https://thekit.ca/culture/culture-movies/clueless-is-30/) _The Kit._ June 12, 2025. 
 
 ["_Clueless_ is 30--as if!--but what this totally important movie did for girly art is forever."](https://www.thestar.com/entertainment/clueless-is-30-as-if-but-what-this-totally-important-movie-did-for-girly-art/article_01db046a-52df-4ec7-a6d9-21823c70ee74.html) _The Toronto Star._ June 4, 2025. 
 
