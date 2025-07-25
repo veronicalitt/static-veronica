@@ -42,6 +42,8 @@ _
 
 ["A Ditz with a Credit Card: Innocence and Ignorance."](https://alllitup.ca/excerpted-ugh-as-if/) _All Lit Up._ July 18, 2025.
 
+["Gilbert Speaks to Veronica Litt About Her Book 'Ugh! As If! Clueless.'"](https://biffbampop.com/2025/07/17/gilbert-speaks-to-veronica-litt-about-her-book-ugh-as-if-clueless/). _Biff Bam Pop._ July 17, 2025. 
+
 ["Why We're All Still Obsessed with _Clueless._"](https://www.fridaythings.com/recent-posts/clueless-30th-anniversary-veronica-litt) _Friday Things._ July 11, 2025.
 
 ["Celebrating a Book Release and New Research with Dr. Veronica Litt."](https://www.cbu.ca/newsroom/articles/celebrating-a-book-release-and-new-research-with-dr-veronica-litt/) _CBU Newsroom_. July 2, 2025. 
@@ -76,9 +78,15 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
 **Reviews**
 
+["‘Ugh! As If!’ Takes On The Enduring Appeal Of ‘Clueless.’"](https://defector.com/ugh-as-if-takes-on-the-enduring-appeal-of-clueless) _Defector._ July 25, 2025. 
+
+["Ugh! As If! Clueless" is a Fantastic Literary Exploration of a Superb Movie."](https://www.thenewestrant.com/2025/06/ugh-as-if-clueless-is-fantastic.html) _The Newest Rant._ June 3, 2025. 
+
 ["Ugh As If!": New book tackles the 'female gaze' and _Clueless_."](https://www.mountholyokenews.com/books/2025/2/8/veronica-litt-makes-a-case-for-clueless-1995-and-the-joy-of-girly-art) _Mount Holyoke News._ February 10, 2025. 
 
 **Television**
+
+"Ugh! As If! A Book on the Impact of _Clueless_ 30 Years Later." _CTV Your Morning._ July 23, 2025.  
 
 ["Veronica Litt discusses _Ugh! As If! Clueless._"](https://www.ctvnews.ca/atlantic/video/2025/05/29/veronica-litt-discusses-ugh-as-if-clueless/) _CTV News Atlantic._ May 29, 2025.
 
