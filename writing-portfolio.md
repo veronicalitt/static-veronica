@@ -34,7 +34,7 @@ _
 
 “Just like _Clueless, Ugh! As If!_ is an unabashed celebration of all things girly, bubbly, and bright. If you've been feeling jaded about the state of the world, this sweet, smart, and funny book is exactly what you need.” — Hannah McGregor, Associate Professor of Publishing at Simon Fraser University, host of _Material Girls_ and _Witch Please_, and author of _A Sentimental Education_ and _Clever Girl_
 
-"Detailed and always insightful...The vibe is that of your coolest professor, with chatty, entertaining footnotes full of personal disclosures and theoretical reading lists...Litt’s loving analysis of the film is a shining example of how to bring Cher’s soul into the study of art and culture." - Annie Berke, _Defector_
+"Detailed and always insightful...The vibe is that of your coolest professor, with chatty, entertaining footnotes full of personal disclosures and theoretical reading lists...Litt’s loving analysis of the film is a shining example of how to bring Cher’s soul into the study of art and culture." — Annie Berke, _Defector_
 
 “Veronica Litt, using _Clueless_ as her campy, colourful vessel, encourages us to love the art that moves us, to interrogate our notions of complacency and ignorance and, most importantly, to tell us not to give up the fight, whether it be on a global scale or confined to the halls of high school chaos.” —  Honora Quinn, _Mount Holyoke News_
 
