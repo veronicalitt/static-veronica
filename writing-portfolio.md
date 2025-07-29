@@ -6,7 +6,7 @@ permalink: /writing-portfolio/
 
 # Writing
 
-### Ugh! As If!
+### Book: _Ugh! As If!_
 
 <figure>
 <img src="../assets/img/UghAsIf.jpg" alt="cover of Ugh As If book" height="300"/>
