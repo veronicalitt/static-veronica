@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: Book
 permalink: /writing-portfolio/
 ---
 
@@ -29,8 +29,7 @@ In _Ugh! As If!_, Veronica Litt argues that this seemingly fluffy teen romp is t
 
 “_Ugh! As If!_ makes a powerful argument for why we should keep inviting Amy Heckerling's film into our lives, and it reminds us of comedy's awesome power to connect us.” — Deidre Lynch, Ernest Bernbaum Professor of Literature at Harvard University and author of _The Economy of Character_ and _Loving Literature: A Cultural History_
 
-“Litt gives _Clueless_ the intellectual importance it deserves, adding it to the canon of timeless women-led pictures.” — Marlowe Granados, author of _Happy Hour
-_
+“Litt gives _Clueless_ the intellectual importance it deserves, adding it to the canon of timeless women-led pictures.” — Marlowe Granados, author of _Happy Hour_
 
 “Just like _Clueless, Ugh! As If!_ is an unabashed celebration of all things girly, bubbly, and bright. If you've been feeling jaded about the state of the world, this sweet, smart, and funny book is exactly what you need.” — Hannah McGregor, Associate Professor of Publishing at Simon Fraser University, host of _Material Girls_ and _Witch Please_, and author of _A Sentimental Education_ and _Clever Girl_
 
@@ -73,7 +72,7 @@ _
 
 **Radio**
 
-["30 years on and you're not majorly, totally, butt-crazy in love with Clueless? As if!"](https://www.cbc.ca/listen/live-radio/1-14-day-6/clip/16158811-30-years-majorly-totally-butt-crazy-love-clueless-as) _Day 6._ CBC Radio (National). July 18, 2025.
+["30 years on and you're not majorly, totally, butt-crazy in love with _Clueless_? As if!"](https://www.cbc.ca/listen/live-radio/1-14-day-6/clip/16158811-30-years-majorly-totally-butt-crazy-love-clueless-as) _Day 6._ CBC Radio (National). July 18, 2025.
 
 Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
@@ -83,7 +82,7 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
 ["‘Ugh! As If!’ Takes On The Enduring Appeal Of ‘Clueless.’"](https://defector.com/ugh-as-if-takes-on-the-enduring-appeal-of-clueless) _Defector._ July 25, 2025. 
 
-["Ugh! As If! Clueless" is a Fantastic Literary Exploration of a Superb Movie."](https://www.thenewestrant.com/2025/06/ugh-as-if-clueless-is-fantastic.html) _The Newest Rant._ June 3, 2025. 
+["Ugh! As If! _Clueless_" is a Fantastic Literary Exploration of a Superb Movie."](https://www.thenewestrant.com/2025/06/ugh-as-if-clueless-is-fantastic.html) _The Newest Rant._ June 3, 2025. 
 
 ["Ugh As If!": New book tackles the 'female gaze' and _Clueless_."](https://www.mountholyokenews.com/books/2025/2/8/veronica-litt-makes-a-case-for-clueless-1995-and-the-joy-of-girly-art) _Mount Holyoke News._ February 10, 2025. 
 
