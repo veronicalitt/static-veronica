@@ -94,8 +94,6 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
 ["Veronica Litt discusses _Ugh! As If! Clueless._"](https://www.ctvnews.ca/atlantic/video/2025/05/29/veronica-litt-discusses-ugh-as-if-clueless/) _CTV News Atlantic._ May 29, 2025.
 
-<center><img src="../assets/img/etalk.png" alt="me talking about Clueless on eTalk"/></center>
-
 #### Events for _Ugh! As If!_
 
 **Screenings**
