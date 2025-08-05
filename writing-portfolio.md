@@ -13,7 +13,7 @@ permalink: /writing-portfolio/
 <figcaption>My first book!</figcaption>
 </figure>
 
-My first book is a work of cultural criticism on the classic teen film _Clueless_ (1995). Order a copy at your local independent book store or [direct from the publisher, ECW](https://ecwpress.com/products/ugh-as-if).
+My first book is a work of cultural criticism on the classic teen film _Clueless_ (1995). Order a copy at your local independent book store or [direct from the publisher, ECW](https://ecwpress.com/products/ugh-as-if). This book is my baby! Emily Nussbaum said it was "lively and original...playful and deep"! I got to be on _eTalk_ in a feature led by Lainey Liu! What a dream come true! 
 
 From the publisher:
 
@@ -87,6 +87,8 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 ["Ugh As If!": New book tackles the 'female gaze' and _Clueless_."](https://www.mountholyokenews.com/books/2025/2/8/veronica-litt-makes-a-case-for-clueless-1995-and-the-joy-of-girly-art) _Mount Holyoke News._ February 10, 2025. 
 
 **Television**
+
+["Why We Still Can't Get Enough of _Clueless_."](https://www.ctv.ca/shows/etalk/wednesday-july-30-2025-s23e194) _eTalk._ July 30, 2025. 
 
 "Ugh! As If! A Book on the Impact of _Clueless_ 30 Years Later." _CTV Your Morning._ July 23, 2025.  
 
