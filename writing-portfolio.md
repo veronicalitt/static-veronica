@@ -94,6 +94,8 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
 ["Veronica Litt discusses _Ugh! As If! Clueless._"](https://www.ctvnews.ca/atlantic/video/2025/05/29/veronica-litt-discusses-ugh-as-if-clueless/) _CTV News Atlantic._ May 29, 2025.
 
+<center><img src="../assets/img/etalk.jpg" alt="me talking about Clueless on eTalk"/></center>
+
 #### Events for _Ugh! As If!_
 
 **Screenings**
@@ -101,6 +103,8 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 ["_Clueless_ 30th Anniversary with Veronica Litt."](https://paradiseonbloor.com/movies/clueless-30th-anniversary-w-veronica-litt/) The Paradise Theater. Toronto, Ontario. July 24, 2025. 
 
 ["_Clueless_ 30th Anniversary with Veronica Litt and Whitney McMeekin."](https://playhousecinema.ca/movie/clueless-30th-anniversary) The Playhouse Theater. Hamilton, Ontario. July 22, 2025.
+
+<center><img src="../assets/img/paradise.jpg" alt="poster for screening of Clueless at the Paradise theater in Toronto"/></center>
 
 **Talks**
 
