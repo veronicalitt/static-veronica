@@ -14,7 +14,10 @@ Some of my first experiments with DH and DS involved using websites as a no-barr
 
 Currently, I'm in the final stage of creating a digital edition of the first English translation of Jean-Jacques Rousseau's massively popular novel _Julie, ou La Nouvelle Heloise_ (1761). Translated by William Kenrick, the novel was retitled _Eloisa_ (1761) to appeal to Anglophone readers. When the digital edition is complete and posted on _Project Gutenberg_, the e-text will provide a freely accessible version of this unjustly neglected text for students, scholars, and anyone interested in eighteenth-century literature. 
 
-<center><img src="../assets/img/eloisa.png" alt="mock cover for my Eloisa e-book; includes a 1780 painting titled 'The Stolen Kiss' and in the style of Bantam Classics" height="500"/></center>
+<figure>
+<img src="../assets/img/eloisa.png" alt="mock cover for my Eloisa e-book; includes a 1780 painting titled 'The Stolen Kiss' and in the style of Bantam Classics" height="300"/>
+<figcaption>I love the look of Bantam Classics. I had to make an homage cover for my own reissued classic text!</figcaption>
+</figure>
 
 **Letterpress Blog**
 
@@ -48,10 +51,6 @@ I've learned about the Text Encoding Inititative, artificial intelligence, and I
 I regularly lead workshops on podcasting at post-secondary institutions in Canada. Over several sessions, I co-developed an asynchronous learning module on the subject. [This guide](https://learn.scds.ca/podcasting/) walks new podcasters through a six-step process for developing, scripting, recording, editing, and sharing their work. While teaching McMaster's introductory Digital Humanities class in 2023, this module also supported the class as we co-developed a podcast on cyber cinema. 
 
 **Yesterday's News**
-
-<figure>
-<img src="../assets/img/YN.jpg" alt="Yesterday's News tile image; includes painting of Judith and Holofernes" height="300"/>
-</figure>
 
 At my first job outside of the academy, I ran and co-hosted a successful history podcast called Yesterday's News. With no marketing budget, we amassed 2000+ listeners per episode in under a month. [Listen to the podcast.](https://podcasts.apple.com/us/podcast/yesterdays-news/id1563444201) 
 
