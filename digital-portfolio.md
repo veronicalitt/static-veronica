@@ -16,6 +16,8 @@ Currently, I'm in the final stage of creating a digital edition of the first Eng
 
 <center><img src="../assets/img/eloisa.png" alt="mock cover for my Eloisa e-book; includes a 1780 painting titled 'The Stolen Kiss' and is laid out in the style of Bantam Classics" height="500"/></center>
 <center>I love the look of Bantam Classics. I had to make an homage cover for my own reissued classic text!</center>
+<imgcaption>I love the look of Bantam Classics. I had to make an homage cover for my own reissued classic text!</imgcaption>
+
 
 **Letterpress Blog**
 
