@@ -17,6 +17,7 @@ Currently, I'm in the final stage of creating a digital edition of the first Eng
 <center><img src="../assets/img/eloisa.png" alt="mock cover for my Eloisa e-book; includes a 1780 painting titled 'The Stolen Kiss' and is laid out in the style of Bantam Classics" height="500"/></center>
 <center><small>I love the look of Bantam Classics. I had to make an homage cover for my own reissued classic text!</small></center>
 
+
 **Letterpress Blog**
 
 During my PhD, I was very lucky to work as a Printing Apprentice at the Roberston Davies Library's letterpress facility. This role taught me principles and best practices of letterpress printing with 19th and 20th century presses. I was hooked! After my official apprenticeship concluded, I continued to volunteer at the facility and have a small at-home setup. Learn more about my letterpress work with my blog ["Veronica Learns Letterpress."](https://letterpressbyveronica.wordpress.com/)
@@ -26,7 +27,7 @@ During my PhD, I was very lucky to work as a Printing Apprentice at the Robersto
 When I worked as the Sherman Centre's Digital Scholarship Coordinator, I moved away from proprietary website builders like Wordpress and embraced open source coding and minimal computing. Part of my work involved learning to use GitHub and developing tutorial sites on software like Twine Games, a hypertext game design platform. [Browse the Twine module here.](https://learn.scds.ca/dmds22-23/Twine.html) One of my key projects was developing the "Online Learning Catalogue" which corralled all of the Centre's 100+ digital tutorials into a [searchable database](https://scds.ca/searchable-online-learning/). 
 
 <center><img src="../assets/img/Roof-1.png" alt="cats playing on a roof" height="250"/></center>
-<center>Here's a symbolic representation of all my dispersed DS projects (cats) bopping around on the web (roof).</center>
+<center><small>Here's a symbolic representation of all my dispersed DS projects (cats) bopping around on the web (roof).</small></center>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -53,7 +54,7 @@ I regularly lead workshops on podcasting at post-secondary institutions in Canad
 At my first job outside of the academy, I ran and co-hosted a successful history podcast called Yesterday's News. With no marketing budget, we amassed 2000+ listeners per episode in under a month. [Listen to the podcast.](https://podcasts.apple.com/us/podcast/yesterdays-news/id1563444201) 
 
 <center><img src="../assets/img/Trumpet-1.png" alt="Cat playing trumpet"/></center>
-<center>Here's a symbolic representation of me recording audio.</center>
+<center><small>Here's a symbolic representation of me recording audio.</small></center>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Image Credit: [“Concert of Cats”](https://collections.library.yale.edu/catalog/17324467) and ["Midnight Revels."](https://collections.library.yale.edu/catalog/10977604) Courtesy of the Lewis Walpole Library Digital Assets Collection.
