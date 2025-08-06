@@ -15,9 +15,7 @@ Some of my first experiments with DH and DS involved using websites as a no-barr
 Currently, I'm in the final stage of creating a digital edition of the first English translation of Jean-Jacques Rousseau's massively popular novel _Julie, ou La Nouvelle Heloise_ (1761). Translated by William Kenrick, the novel was retitled _Eloisa_ (1761) to appeal to Anglophone readers. When the digital edition is complete and posted on _Project Gutenberg_, the e-text will provide a freely accessible version of this unjustly neglected text for students, scholars, and anyone interested in eighteenth-century literature. 
 
 <center><img src="../assets/img/eloisa.png" alt="mock cover for my Eloisa e-book; includes a 1780 painting titled 'The Stolen Kiss' and is laid out in the style of Bantam Classics" height="500"/></center>
-<center>I love the look of Bantam Classics. I had to make an homage cover for my own reissued classic text!</center>
-<imgcaption>I love the look of Bantam Classics. I had to make an homage cover for my own reissued classic text!</imgcaption>
-
+<center><small>I love the look of Bantam Classics. I had to make an homage cover for my own reissued classic text!</small></center>
 
 **Letterpress Blog**
 
