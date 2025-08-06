@@ -102,7 +102,7 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
 ["_Clueless_ 30th Anniversary with Veronica Litt and Whitney McMeekin."](https://playhousecinema.ca/movie/clueless-30th-anniversary) The Playhouse Theater. Hamilton, Ontario. July 22, 2025.
 
-<center><img src="../assets/img/paradise.jpg" alt="poster for screening of Clueless at the Paradise theater in Toronto" heigh="500"/></center>
+<center><img src="../assets/img/paradise.jpg" alt="poster for screening of Clueless at the Paradise theater in Toronto" height="500"/></center>
 <center><small>Look at this amazing poster designed by Lucy Walker, Director of Film Programming at the Paradise Theater.</small></center>
 
 **Talks**
