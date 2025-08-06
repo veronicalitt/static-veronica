@@ -24,7 +24,7 @@ Published in _Women's Writing_ 31.4 (Fall 2024)
 This article argues that the key to the experimental novel _The Cry: A New Dramatic Fable_ (1754) by Sarah Fielding and Jane Collier lies in the contrasting temporalities of the text’s two genres: the endless debate in the frame narrative and the resolved marriage plot narrated by the heroine Portia. By placing repetition and progression side by side, Fielding and Collier emphasize the gulf between the pain of lived experience and the illusory comfort provided by fictional convention. Amid eighteenth-century literary debates on whether didactic texts should favor realism or idealism, _The Cry_ insists that truly educational novels must represent womanhood pragmatically – as rife with oppression, frustration, and repetition. Through formal features, the co-authors use pace and duration to force their audience to experience the pain of womanhood in real time, then propose a way forward through their heroine’s progressive neologisms. Drawing on Sarah Fielding’s literary criticism, responses to _The Cry_ by eighteenth-century readers, and feminist theory, this essay examines how the novel critiqued the social utility of conventional domestic fiction and exposed the true experience of womanhood.
 
 <center><img src="../assets/img/Reviewer2Final.jpg" alt="angry little cat with distressed woman and nonplussed man" height="250"/></center>
-<center>Here's a symbolic representation of me reading comments by Reviewer 2.</center>
+<center><small>Here's a symbolic representation of me reading comments by Reviewer 2.</small></center>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Doctoral Dissertation 
@@ -36,7 +36,7 @@ The four chapters of this dissertation examine how popular novels considered wom
 Ultimately, this dissertation reveals the tremendous scholarly rewards of studying commercially successful fiction. This material changes our view of the mid-eighteenth-century literary marketplace, reveals a mass readership’s preferences, and allows scholars to see the 1750s and 1760s as a critical and profoundly experimental period of literary history, especially regarding depictions of women and treatments of female experience.
 
 <center><img src="../assets/img/Rivals.jpg" alt="woman at table with cat" height="300"/></center>
-<center>Writing this dissertation involved a lot of time nudging my cat Crumbs away from my desk.</center>
+<center><small>Writing this dissertation involved a lot of time nudging my cat Crumbs away from my desk.</small></center>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
