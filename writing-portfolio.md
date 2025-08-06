@@ -8,12 +8,12 @@ permalink: /writing-portfolio/
 
 ### Book: _Ugh! As If!_
 
-<figure>
-<img src="../assets/img/UghAsIf.jpg" alt="cover of Ugh As If book" height="300"/>
-<figcaption>My first book!</figcaption>
-</figure>
-
 My first book is a work of cultural criticism on the classic teen film _Clueless_ (1995). Order a copy at your local independent book store or [direct from the publisher, ECW](https://ecwpress.com/products/ugh-as-if). This book is my baby! Emily Nussbaum said it was "lively and original...playful and deep"! I got to be on _eTalk_ in a feature led by Lainey Liu! What a dream come true! 
+
+<center>
+<img src="../assets/img/UghAsIf.jpg" alt="cover of Ugh As If book" height="500"/>
+<center><small>My first book!</small></center>
+</center>
 
 From the publisher:
 
@@ -102,7 +102,8 @@ Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
 
 ["_Clueless_ 30th Anniversary with Veronica Litt and Whitney McMeekin."](https://playhousecinema.ca/movie/clueless-30th-anniversary) The Playhouse Theater. Hamilton, Ontario. July 22, 2025.
 
-<center><img src="../assets/img/paradise.jpg" alt="poster for screening of Clueless at the Paradise theater in Toronto"/></center>
+<center><img src="../assets/img/paradise.jpg" alt="poster for screening of Clueless at the Paradise theater in Toronto" heigh="500"/></center>
+<center><small>Look at this amazing poster designed by Lucy Walker, Director of Film Programming at the Paradise Theater.</small></center>
 
 **Talks**
 
