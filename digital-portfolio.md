@@ -14,12 +14,12 @@ Some of my first experiments with DH and DS involved using websites as a no-barr
 
 **New!**
 
-My latest project is a digital edition of the first English translation of Jean-Jacques Rousseau's massively popular novel _Julie, ou La Nouvelle Heloise_ (1761). Translated by William Kenrick, the novel was retitled _Eloisa_ (1761) to appeal to Anglophone readers. My ebook is hosted by _Project Gutenberg_, a volunteer-run, nonprofit digital library that makes thousands of ebooks freely accessible to readers. I have used and loved _Project Gutenberg_ since my early 20s and I'm so chuffed to contribute to their good work in some small way. 
+My latest project is a [digital edition](https://www.gutenberg.org/ebooks/76639) of the first English translation of Jean-Jacques Rousseau's massively popular novel _Julie, ou La Nouvelle Heloise_ (1761). Translated by William Kenrick, the novel was retitled _Eloisa_ (1761) to appeal to Anglophone readers. [My ebook](https://www.gutenberg.org/ebooks/76639) is hosted by _Project Gutenberg_, a volunteer-run, nonprofit digital library that makes thousands of ebooks freely accessible to readers. I have used and loved _Project Gutenberg_ since my early 20s and I'm so chuffed to contribute to their good work in some small way. 
 
 <center><img src="../assets/img/eloisa.png" alt="mock cover for my Eloisa e-book; includes a 1780 painting titled 'The Stolen Kiss' and is laid out in the style of Bantam Classics" height="500"/></center>
 <center><small>I love the look of Bantam Classics. I had to make an homage cover for my own reissued classic text!</small></center>
 
-I know a long novel from 1760 will be a tough sell, but hear me out on _Eloisa_. This book is about the forbidden love between an aristocratic woman and her low-born tutor. Over the course of the story, Rousseau explores themes like premarital sex, interclass love, romantic autonomy, and polyamory. There is so much to dig into with this text! I hope you give it a look. 
+I know a long novel from 1760 will be a tough sell, but hear me out on _Eloisa_. This book is about the forbidden love between an aristocratic woman and her low-born tutor. Over the course of the story, Rousseau explores themes like premarital sex, interclass love, romantic autonomy, and polyamory. There is so much to dig into with this text! I hope you [give it a look](https://www.gutenberg.org/ebooks/76639). 
 
 **Letterpress Blog**
 
