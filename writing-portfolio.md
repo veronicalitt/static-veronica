@@ -72,6 +72,8 @@ In _Ugh! As If!_, Veronica Litt argues that this seemingly fluffy teen romp is t
 
 **Radio**
 
+["Why does 'like' bother us so much?"](https://www.ctpublic.org/show/the-colin-mcenroe-show/2025-08-20/why-does-like-bother-us-so-much) _The Colin McEnroe Show._ Connecticut Public Radio/WNPR. August 20, 2025. 
+
 ["30 years on and you're not majorly, totally, butt-crazy in love with _Clueless_? As if!"](https://www.cbc.ca/listen/live-radio/1-14-day-6/clip/16158811-30-years-majorly-totally-butt-crazy-love-clueless-as) _Day 6._ CBC Radio (National). July 18, 2025.
 
 Information Morning Halifax. CBC Radio 90.5 FM. June 5, 2025.
