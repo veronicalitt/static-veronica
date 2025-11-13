@@ -38,6 +38,8 @@ When I worked as the Sherman Centre's Digital Scholarship Coordinator, I moved a
 
 In 2023, I designed a new iteration of McMaster University's introductory Digital Scholarship course. The class introduced students to DS through two key questions. First, how does technology change the way we see classic works of literature? Second, how does scholarly analysis change the way we see technology? We considered both queries through close analysis of _Frankenstein_ (1818) by Mary Shelley. Students learned to use the text analysis platform Voyant and Google Maps' digital mapping tool; their two major projects involved creating a hypertext game and a podcast episode. 
 
+In 2025, Dr. Heather Sparling and I co-designed a proposal for an introductory digital scholarship course at Cape Breton University. Alongside Voyant and GoogleMyMaps, the course will also include work with TEI (the Text Encoding Initiative), sonification, and artificial intelligence. This class will (hopefully!) be offered in 2026-2027. 
+
 **Training**
 
 I've learned about the Text Encoding Inititative, artificial intelligence, and Indigenous data sovereignty through workshops and modules like DH@Guelph, DHSI East, and OCAP. I also provide DS training opportunities to other scholars, specifically working on McMaster's SSHRC-funded RDM Community Data Toolkits event. 
