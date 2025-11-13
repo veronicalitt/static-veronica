@@ -40,7 +40,7 @@ In 2023, I designed a new iteration of McMaster University's introductory Digita
 
 **Training**
 
-I've learned about the Text Encoding Inititative, artificial intelligence, and Indigenous data sovereignty through workshops and modules like DHS@Guelph, DHSI East, and OCAP. I also provide DS training opportunities to other scholars, specifically working on McMaster's SSHRC-funded RDM Community Data Toolkits event and Cape Breton University's SSHRC-funded work on culture bearers, where I provide podcast support. 
+I've learned about the Text Encoding Inititative, artificial intelligence, and Indigenous data sovereignty through workshops and modules like DH@Guelph, DHSI East, and OCAP. I also provide DS training opportunities to other scholars, specifically working on McMaster's SSHRC-funded RDM Community Data Toolkits event. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
