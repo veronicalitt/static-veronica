@@ -42,7 +42,7 @@ In 2025, Dr. Heather Sparling and I co-designed a proposal for an introductory d
 
 **Training**
 
-I've learned about the Text Encoding Inititative, artificial intelligence, and Indigenous data sovereignty through workshops and modules like DH@Guelph, DHSI East, and OCAP. I also provide DS training opportunities to other scholars, specifically working on McMaster's SSHRC-funded RDM Community Data Toolkits event. 
+I've learned about the Text Encoding Inititative, artificial intelligence, and Indigenous data sovereignty through workshops from organizations including DH@Guelph, DHSI East, and OCAP. I also provide DS training opportunities to other scholars, specifically working on McMaster's SSHRC-funded RDM Community Data Toolkits event. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
