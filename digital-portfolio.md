@@ -15,7 +15,7 @@ Some of my first experiments with DH and DS involved using websites as a no-barr
 My latest project is a [digital edition](https://www.gutenberg.org/ebooks/76639) of the first English translation of Jean-Jacques Rousseau's massively popular novel _Julie, ou La Nouvelle Heloise_ (1761). Translated by William Kenrick, the novel was retitled _Eloisa_ (1761) to appeal to Anglophone readers. [My ebook](https://www.gutenberg.org/ebooks/76639) is hosted by _Project Gutenberg_, a volunteer-run, nonprofit digital library that makes thousands of ebooks freely accessible to readers. I have used and loved _Project Gutenberg_ since my early 20s and I'm so chuffed to contribute to their good work in some small way. 
 
 <center><img src="../assets/img/eloisa.png" alt="mock cover for my Eloisa e-book; includes a 1780 painting titled 'The Stolen Kiss' and is laid out in the style of Bantam Classics" height="500"/></center>
-<center><small>I love the look of Bantam Classics. I had to make an homage cover for my own reissued classic text!</small></center>
+<center><small>I love the look of Bantam Classics. I had to make an homage cover for my own edition of this classic text!</small></center>
 
 I know a long novel from 1760 will be a tough sell, but hear me out on _Eloisa_. This book is about the forbidden love between an aristocratic woman and her low-born tutor. Over the course of the story, Rousseau explores themes like premarital sex, interclass love, romantic autonomy, and polyamory. There is so much to dig into with this text! I hope you [give it a look](https://www.gutenberg.org/ebooks/76639). 
 
@@ -34,11 +34,13 @@ When I worked as the Sherman Centre's Digital Scholarship Coordinator, I moved a
 
 ## Teaching and Training
 
-**Teaching**
+**Teaching and Advocacy**
 
 In 2023, I designed a new iteration of McMaster University's introductory Digital Scholarship course. The class introduced students to DS through two key questions. First, how does technology change the way we see classic works of literature? Second, how does scholarly analysis change the way we see technology? We considered both queries through close analysis of _Frankenstein_ (1818) by Mary Shelley. Students learned to use the text analysis platform Voyant and Google Maps' digital mapping tool; their two major projects involved creating a hypertext game and a podcast episode. 
 
 In 2025, Dr. Heather Sparling and I co-designed a proposal for an introductory digital scholarship course at Cape Breton University. Alongside Voyant and GoogleMyMaps, the course will also include work with TEI (the Text Encoding Initiative), sonification, and artificial intelligence. This class will (hopefully!) be offered in 2026-2027. 
+
+I regularly teach a unit on OpenAI and ChatGPT in ENGL1109: "Reading and Writing: Science." By analyzing press releases and blog posts from the company and comparing them to work by journalists and scholars including Karen Hao and Mariana Mazzucato, my students learn about the chasm between branding and reality. I am also a member of my department's Generative AI Working Group; we have developed a position paper for faculty and student-facing zine explaining our resistance to AI in higher education. As part of my work as a public scholar, I explained our stance on [local radio](https://coastalradio.ca/dialogue-podcasts/) earlier this year. Play the January 4th episode of "Dialogue" to hear my section on large language models, especially ChatGPT.  
 
 **Training**
 
