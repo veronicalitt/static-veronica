@@ -48,6 +48,9 @@ I've learned about the Text Encoding Inititative, artificial intelligence, and I
 
 ## Podcasting
 
+**_[Girl Talk](https://rss.com/podcasts/girl-talk-podcast/)_**
+Equal parts scholarly and silly, _Girl Talk_ is a bi-weekly podcast about gender, pop culture, and podcasting itself. Dr. Mariah Hudec and I co-host the show with support from CBU; our first season examines "Girly Culture 101" (think _Twilight, The Hunger Games, Barbie, Heated Rivalry_, and more). This is an iterative process where the practice of scholarly podcasting enables us to develop a theory of scholarly podcasting and vice versa. As we discuss things like TV, celebrities, and social media, we also mull over questions about podcasting as a part of or an alternative to the traditional research process. 
+
 **Podcasting Workshops and Asynchronous Module**
 
 I regularly lead workshops on podcasting at post-secondary institutions in Canada. Over several sessions, I co-developed an asynchronous learning module on the subject. [This guide](https://learn.scds.ca/podcasting/) walks new podcasters through a six-step process for developing, scripting, recording, editing, and sharing their work. While teaching McMaster's introductory Digital Humanities class in 2023, this module also supported the class as we co-developed a podcast on cyber cinema. 
