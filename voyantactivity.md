@@ -8,7 +8,7 @@ permalink: /voyant-activity/
 
 I am big into Voyant Tools and love assigning the site in English classes. When I tell colleagues about Voyant, they're often interested but unsure of how to actually use it in a class. Here is an example from an introductory Digital Humanities course I taught at McMaster University. Helpful context: The class read and discussed Mary Shelley's _Frankenstein_ for a little under three weeks. We intentionally only used interpretations and close readings developed from our own human brains. Then over the rest of the course, students analyzed the text with the help of digital programs and platforms. Our first: Voyant Tools. Below you'll see how I structured that activity. Use an approach like this in your class and let me know how it goes! In my experience, students are very energized to discuss the new perspective lent to the novel by computational text analysis. 
 
-##Voyant Tools Exploratory Analysis Worksheet and Explanation##
+## Voyant Tools Exploratory Analysis Worksheet and Explanation ##
 
 This worksheet gives students a structure for working with Voyant Tools and using computational text analysis to consider literature from a new perspective. 
 For this activity, I created documents that divided _Frankenstein_ by speaker/writer and by larger groups like class and gender. This allowed students to compare characters’ speech/writing on Voyant. 
